@@ -1,0 +1,20 @@
+body
+{
+    align-items: center;
+}
+
+h1
+{
+    color: darkred;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: crimson;
+    line-height: 3;
+    text-align: center;
+}
